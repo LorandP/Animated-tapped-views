@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\df888421c4542b423340d88d81489647b6fa95f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9c13f1a0a761e8d123fec13e0f56c0d91dbda45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\5b4c035f29723ce09b3db58d283cf19337de0c6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c66238fcb1af8818b9cebf244fb46246572bf0c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\a64d96c022ecb110dec2565a1b0975bdc48cee65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_725ec53e9a8489f4c43b759612df1c9fe816bd39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3236cfb0a2a31e4d3ef1a2966c69991ca06bd8cb">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_52fc81b69de058d43f7eaba3efb1b2e912da5531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\f6e02608e8171f6e52dd5be756f77c634a7b60b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0f33a82151d9cdbe0a0347f61ff83db90d22667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4de6bfc3ff19705521959b8984057164de79bdfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\cde3fbe9d6f2a35c61076a2aabe7d16570659569\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5448a8c2b22d3d51fd1ea87025604440cd53804f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\952492860376aabf62563794a0615e1fc1d8fc51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_912c719cff7fc68567ae5aa95923820f32e742c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_02e487be16c8e2dfcc4ddef3355036ac3e132592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\c4a2c531fd74cf7ab7419a3b0cda111c00f5496e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_886a6c4f354339e1bfb51c0018abd7caa4d7a926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\eaa13e36595dde458ffd6f36ac060436892dfcdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c33db5975995f68c52b66bd4e3e988de0453cc24">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7017bfb660be45528754a055d54e0592972bea2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6bb233d2b1e90a89b9e3cb211c155bd472cafc2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\f90192b69401737eab5f3c62ab9e28d3f6f3225d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78e58c936cf43cf2074ad97a6db56a99f4afe13a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\85135827f986c81e46710fd846443a07c240b013\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd49b525c30dd510021ba67a591431ffd784c052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lori\.android\build-cache\7396dac003b6a6d94f65f053f5bb127f9f5a4b8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android Projects\New folder\zongaanimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10a9f3f88a13251328270199ae7e563e43e517db\classes.dex" />
+    </item>
+
+</items>
