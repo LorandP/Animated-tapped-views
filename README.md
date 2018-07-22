@@ -1,2 +1,4 @@
 # Animated-tapped-views
-Animates a view when tapped. Much like in this library: https://github.com/KeepSafe/TapTargetView
+Animates a view when tapped.
+
+https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/.github/video.gif
